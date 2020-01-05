@@ -1,2 +1,2 @@
 # dataStructure
-记录了一些数据结构的实现
+用Java实现了一些数据结构
